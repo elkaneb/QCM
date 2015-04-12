@@ -9,6 +9,10 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Entity
  * @ORM\Table(name="qcm_users")
  */
+
+
+// test git
+
 class Users extends BaseUser
 {
     /**
