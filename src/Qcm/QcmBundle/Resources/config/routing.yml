@@ -1,0 +1,3 @@
+qcm_qcm_homepage:
+    path:     /
+    defaults: { _controller: QcmQcmBundle:Default:index }
