@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54ee9261-24a4-462b-ad5c-354a4d0608b0" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#__clone.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#add.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#addError.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#all.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#bind.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#count.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#createView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getClickedButton.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getConfig.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getErrors.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getErrorsAsString.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getExtraData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getIterator.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getNormData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getParent.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getPropertyPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getRoot.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getTransformationFailure.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#getViewData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#handleRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#indent.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#initialize.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isBound.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isDisabled.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isEmpty.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isRequired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isRoot.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isSubmitted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isSynchronized.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#isValid.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#modelToNorm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#normToModel.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#normToView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#offsetExists.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#offsetGet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#offsetSet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#offsetUnset.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#remove.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#setData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#setParent.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#submit.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a#viewToNorm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$children.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$clickedButton.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$config.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$defaultDataSet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$errors.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$extraData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$lockSetData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$modelData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$normData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$parent.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$submitted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$transformationFailure.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a$viewData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\137636d9a151ece443ec1a0bc45bacf9998ded1a.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\377aeed842712babfddf54e32bcc7bcc91f4a839#confirmedAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\377aeed842712babfddf54e32bcc7bcc91f4a839#registerAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\377aeed842712babfddf54e32bcc7bcc91f4a839.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\38f7b61d7629ad7f78afeb64e98ac94ddef54c8d#isAccountNonExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\38f7b61d7629ad7f78afeb64e98ac94ddef54c8d#isAccountNonLocked.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\38f7b61d7629ad7f78afeb64e98ac94ddef54c8d#isCredentialsNonExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\38f7b61d7629ad7f78afeb64e98ac94ddef54c8d#isEnabled.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\38f7b61d7629ad7f78afeb64e98ac94ddef54c8d.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\41216fe586c98f51c6ea60da702451a54bd469ed#getIterator.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\41216fe586c98f51c6ea60da702451a54bd469ed.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\59fd5a242afd82b90a6ceb5e74a56292751b5ff4#urlRedirectAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\59fd5a242afd82b90a6ceb5e74a56292751b5ff4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\653e2382f602883abf6a7d360b3234ca8097ae90#count.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\653e2382f602883abf6a7d360b3234ca8097ae90.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\6d77c4060d2c46d7db2a54ee9d739c0f7b88bfde#addGroup.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\6d77c4060d2c46d7db2a54ee9d739c0f7b88bfde#getGroupNames.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\6d77c4060d2c46d7db2a54ee9d739c0f7b88bfde#getGroups.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\6d77c4060d2c46d7db2a54ee9d739c0f7b88bfde#hasGroup.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\6d77c4060d2c46d7db2a54ee9d739c0f7b88bfde#removeGroup.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\6d77c4060d2c46d7db2a54ee9d739c0f7b88bfde.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\7b9a6d5b818b8ee337fbb8f2628f6ade755f3ff5#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$image.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$question.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$rep1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$rep2.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$rep3.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$rep4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3$user.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\882a39609e66e41ce7df4a8458bc9683899d9ce3.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\89c79e1f9b133f75b605a1798ac22088e592f3f9.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#addRole.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#getConfirmationToken.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#getEmail.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#getEmailCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#getPlainPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#getUsernameCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#hasRole.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#isPasswordRequestNonExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#isSuperAdmin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#removeRole.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setConfirmationToken.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setEmail.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setEmailCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setEnabled.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setLastLogin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setLocked.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setPasswordRequestedAt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setPlainPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setRoles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setSuperAdmin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setUsername.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22#setUsernameCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\98f90e93f1f074bbb6fbd5282284bc0f2486ca22.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#count.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#getIterator.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#offsetExists.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#offsetGet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#offsetSet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5#offsetUnset.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5$elements.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5$managedCursors.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5$orderedKeys.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\9991082bb48b927249ca255da54151bbbeeabda5.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b3f2e985db383c94521559410abfe5a507362e26#offsetExists.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b3f2e985db383c94521559410abfe5a507362e26#offsetGet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b3f2e985db383c94521559410abfe5a507362e26#offsetSet.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b3f2e985db383c94521559410abfe5a507362e26#offsetUnset.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b3f2e985db383c94521559410abfe5a507362e26.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#__toString.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#addGroup.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#addRole.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#eraseCredentials.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getConfirmationToken.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getEmail.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getEmailCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getGroupNames.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getGroups.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getLastLogin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getPasswordRequestedAt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getPlainPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getRoles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getSalt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getUsername.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#getUsernameCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#hasGroup.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#hasRole.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isAccountNonExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isAccountNonLocked.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isCredentialsExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isCredentialsNonExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isEnabled.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isLocked.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isPasswordRequestNonExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#isSuperAdmin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#removeGroup.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#removeRole.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#serialize.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setConfirmationToken.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setCredentialsExpireAt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setCredentialsExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setEmail.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setEmailCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setEnabled.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setExpired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setExpiresAt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setLastLogin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setLocked.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setPasswordRequestedAt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setPlainPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setRoles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setSuperAdmin.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setUsername.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#setUsernameCanonical.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f#unserialize.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b52ea85948a1c5b9bb1efeee788d43a2ecdba75f.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\b795f17232474b10e4eb05eb081a307e9d9dfa5d.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#add.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#addError.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#all.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#createView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getConfig.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getErrors.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getExtraData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getNormData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getParent.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getPropertyPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getRoot.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getTransformationFailure.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#getViewData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#handleRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#initialize.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isDisabled.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isEmpty.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isRequired.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isRoot.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isSubmitted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isSynchronized.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#isValid.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#remove.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#setData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#setParent.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062#submit.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\c0e5dd98c24f42fa3b74981f237a49b1ff62d062.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\d2e083bdedbbce106cc0e22d2403123bbc4b457c#loginAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\d2e083bdedbbce106cc0e22d2403123bbc4b457c.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\db59a3ab64054bbf9801596a516560686572ae6a#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\db59a3ab64054bbf9801596a516560686572ae6a.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\dc1f3c2690cec070768cf5dde8291f16c094e668#serialize.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\dc1f3c2690cec070768cf5dde8291f16c094e668#unserialize.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\dc1f3c2690cec070768cf5dde8291f16c094e668.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\ea47ae04de979aeb69e4b7b334b227c8ef45fa7a$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\ea47ae04de979aeb69e4b7b334b227c8ef45fa7a.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\f437686921cc4405ab12403b18cc1c3fd782a5b7#eraseCredentials.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\f437686921cc4405ab12403b18cc1c3fd782a5b7#getPassword.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\f437686921cc4405ab12403b18cc1c3fd782a5b7#getRoles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\f437686921cc4405ab12403b18cc1c3fd782a5b7#getSalt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\f437686921cc4405ab12403b18cc1c3fd782a5b7#getUsername.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\annotations\f437686921cc4405ab12403b18cc1c3fd782a5b7.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\12\4b\434b12" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\13\93\939313" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\25\1b\f51b25" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\45\77\4a7745" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\4d\6d\a46d4d" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\4f\75\1d754f" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\51\aa\f7aa51" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\5f\03\56035f" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\68\d9\ead968" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\79\54\175479" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\83\4b\ec4b83" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\cc\e1\fce1cc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\profiler\ec\75\6a75ec" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\translations\catalogue.en.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\translations\catalogue.en.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\06\11\1e4464367ed2c768f3c6c7105cf9ddf4c82125bd338c9f64cf1550ce8fae.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\15\d4\e21711af7947f13b899786f67cf567e3465167ce61b37248b15df50d0026.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\1a\bc\724eee680c7ff5f0e25a27926e3d51bd0f6e4296bbcdac57764892aeaf2e.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\2f\17\be2b09901ba5a5b3a1348b32ab29b5110e6c189e698dbbe270dbdff865a1.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\32\86\730b42991350e50c2912ff415583bcdc60eff098c50fde5c14262872b9a8.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\33\25\51b4abadfeee44bb0dcc3d2ef15b23c19ae2d7859bd5693e91daee853a8b.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\33\e2\f44b450b63722379ede091691774a4d098ac2f9cfec376275d8414d94577.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\35\a6\eb7c48f21e9fb9a8606b4ddaf12e56089b592fd1e76e493fe688caa6611e.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\39\ff\fb23a21a0b763d1df69f58e23143266e2449719ff8c92d2c0ac3e5a40358.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\40\c2\1c46bb7bf55b7bf50d1acacfa8bad91f374106339380921a2a711ebacba9.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\42\95\13a81b53a77ab6584c8dc50bceede194a5a6590e638e0ee7207ea1b7d1c2.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\4a\44\4175d8c5c2eab090ecee878f7b7f5d1dabd61589aaaba6adcbd5c3dd26fa.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\4c\2b\886e5d3b5946c13a9e3afea9c25680f9723513c292513a3a1db4e562b3d0.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\53\3c\a7f8a746ed5e8196770fd3e8e2ae85399197ced5362fcb6c2098cb5e1e3b.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\54\7b\5521a44ba40840376782c29598a768b5c498ea8aa38f94dba79b3553394b.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\58\98\dfb6a3e93222d2daef40626e604a01309669870d4b7bcefc1dcb31e08d67.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\5e\d9\f0f44c6eb9462ede4b98f437d710e8b263e479b560f5bad0f4a8f13eff9e.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\64\2c\14ef6fdc52a6cc185355bffab2000b8b6a9fc297158972df4889e5ea4f9d.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\83\cb\34bf2a9b6c6123b7bf396d778a43c04402b3435e9494e9baea1d10bc3532.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\84\35\fcb8e303981b1bf05856d64c2fab05658f8d5c2efa925929844652117723.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\8c\d9\d5f4e51252b5c03aebc70d3bd0b60c23e1f9243b7cade50c92bf197ecdf8.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\98\99\165ba3bad12ab0139f48f0cd7ef68ddd7f0b5dd72e87fd70b8fc9afa5916.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\9d\83\1ff70976cd97ed72a5baab32bd1cceaf1bbe25000c278ff95289043c226e.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\b8\60\d8477f63a0a522b3e4e3082d884a2e40607dedb2969a64c3d7eac800b300.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\bf\96\9244433e562786c2ad16af9219c6aad6ba7e9c9373bee93b4d59ea9df61d.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\c3\e0\c33d323ef5a79577dd2d91b853698f259699f7a52355f8f0cb3ca1626665.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\c5\2c\c45df0a7a2b6c12cc060f455ec3477d8d0706f66301c16729e40b84e2b67.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\c6\07\5e2f06d08d15591f6f94ca8ed402580ca4860f607521999856077f458585.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\cb\99\02ff1627759ce9064a8246bb33e181f10b6f1a760887614f81c55a86a95f.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\d0\17\c43f751ee65c07070b53ee89aef1fcb644201237df1c0457436a8d1ebdea.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\d3\49\df38200e9084a659493cb92f3464bb7d74b67ab92c41504c0b1442661691.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\dev\twig\f4\b1\731ae837c52d0fdb0e2aab45bc60c08ef44627860c0486e8c3deef0fe0f0.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\597877fc1359850fa8786ead82dcc8f6f491d628#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\597877fc1359850fa8786ead82dcc8f6f491d628.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\annotations\69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\appProdProjectContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\appProdUrlMatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\classes.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\classes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\twig\02\69\6b24ac823224a5b6510012d037f3f3076f7d938f0a8426baca243ef518f4.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\cache\prod\twig\78\35\c9e9da6a58eb9b37278c1bed008df572f62dfa75dadefac3f603f3297e31.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\logs\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\qcm.1\app\logs\prod.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Qcm/QcmBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/Qcm/QcmBundle/Resources/views/Default/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+    </list>
+    <ignored path="qcm.1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="qcm.1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="578">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Qcm/QcmBundle/Resources/views/Default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="1156">
+              <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/Qcm/QcmBundle/Resources/views/Default/index.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Qcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Qcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QcmBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Qcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QcmBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Qcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QcmBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qcm.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ee9261-24a4-462b-ad5c-354a4d0608b0" name="Default" comment="" />
+      <created>1429117588940</created>
+      <option name="number" value="Default" />
+      <updated>1429117588940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="578">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Qcm/QcmBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

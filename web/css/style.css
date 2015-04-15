@@ -1,0 +1,77 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+.content
+{
+  background: url("../img/Question.jpg") #494542 no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 100px 0px;
+  color: #ffffff;
+}
+.sign-up-form h3 {
+  font-size: 24px;
+  text-align: left;
+  font-weight: 300;
+  color: #fff; }
+
+.sign-up-form p {
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 10px; 
+  padding-left: 0px !important;
+  }
+
+.sign-up-form input {
+  margin: 5px 0;
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 5px;
+  outline: none;
+  border: 2px solid #cccccc; }
+.sign-up-form input:last-of-type {
+    margin-bottom: 20px; }
+.sign-up-form input:focus {
+    border: 2px solid #1fcc90; }
+
+.sign-up-form button.btn-sign-up{
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 5px; }
+
+.sign-up-form .btn-sign-up {
+  float: right;
+  background: #1fcc90;
+  color: white; }
+.btn-sign-up:hover {
+    background: #18a071; }
+.bg-t{
+  color: #ffffff;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 8px;
+}
+.bg-t h1
+{
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 4.5em;
+  padding-top: 10px;
+  margin-top: 10px;
+  padding-bottom: 0;
+}
+.bg-t p
+{
+  font-family: 'PT Sans', sans-serif;
+  padding: 0 50px 5px 50px;
+  font-size: 1.6em;
+}
+.bg-t ul { padding: 0 50px 20px 50px; }
+.bg-t ul li h3 { 
+  font-size: 1.4em;
+  font-weight: 400;
+  font-family: 'PT Sans', sans-serif;
+ }
